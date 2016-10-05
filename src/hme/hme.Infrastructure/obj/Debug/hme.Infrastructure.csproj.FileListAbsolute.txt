@@ -1,0 +1,16 @@
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\hme.Infrastructure.dll.config
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\hme.Infrastructure.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\hme.Infrastructure.pdb
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\hme.Domain.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\MySql.Data.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\hme.Domain.pdb
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Proyectos\hme\src\hme\hme.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\hme\src\hme\hme.Infrastructure\obj\Debug\hme.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Proyectos\hme\src\hme\hme.Infrastructure\obj\Debug\hme.Infrastructure.dll
+D:\Proyectos\hme\src\hme\hme.Infrastructure\obj\Debug\hme.Infrastructure.pdb
+D:\Proyectos\hme\src\hme\hme.Infrastructure\obj\Debug\hme.Infrastructure.Migrations.startup.resources
+D:\Proyectos\hme\src\hme\hme.Infrastructure\obj\Debug\hme.Infrastructure.csproj.GenerateResource.Cache

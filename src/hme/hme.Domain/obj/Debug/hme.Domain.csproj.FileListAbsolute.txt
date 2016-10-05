@@ -1,0 +1,4 @@
+D:\Proyectos\hme\src\hme\hme.Domain\bin\Debug\hme.Domain.dll
+D:\Proyectos\hme\src\hme\hme.Domain\bin\Debug\hme.Domain.pdb
+D:\Proyectos\hme\src\hme\hme.Domain\obj\Debug\hme.Domain.dll
+D:\Proyectos\hme\src\hme\hme.Domain\obj\Debug\hme.Domain.pdb

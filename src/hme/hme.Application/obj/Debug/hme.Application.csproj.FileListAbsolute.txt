@@ -1,0 +1,15 @@
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Application.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Application.pdb
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\AutoMapper.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Domain.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Infrastructure.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\EntityFramework.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\MySql.Data.dll
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Domain.pdb
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\hme.Infrastructure.pdb
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\AutoMapper.xml
+D:\Proyectos\hme\src\hme\hme.Application\bin\Debug\EntityFramework.xml
+D:\Proyectos\hme\src\hme\hme.Application\obj\Debug\hme.Application.csprojResolveAssemblyReference.cache
+D:\Proyectos\hme\src\hme\hme.Application\obj\Debug\hme.Application.dll
+D:\Proyectos\hme\src\hme\hme.Application\obj\Debug\hme.Application.pdb
